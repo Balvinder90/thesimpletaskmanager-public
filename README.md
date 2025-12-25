@@ -38,12 +38,10 @@ The project focuses on authentication flows, client-side state management, and u
 ## Demo
 
 ### Full demo for an existing account
-<a href="https://www.youtube.com/watch?v=wY8veXTyq_8" target="_blank" rel="noopener noreferrer">
-  Watch on YouTube
-</a>
+[Demo for existing account](https://www.youtube.com/watch?v=wnProlF4TIs)
 
 ### Full demo for an anonymous account
-[Watch on YouTube](https://www.youtube.com/watch?v=wnProlF4TIs)
+[Demo for anonymous account](https://www.youtube.com/watch?v=wnProlF4TIs)
 
 ---
 
