@@ -37,10 +37,10 @@ The project focuses on authentication flows, client-side state management, and u
 
 ## Demo
 
-### Existing account
+#### Existing account
 [Demo for existing account](https://www.youtube.com/watch?v=wnProlF4TIs)
 
-### Anonymous account
+#### Anonymous account
 [Demo for anonymous account](https://www.youtube.com/watch?v=wnProlF4TIs)
 
 ---
