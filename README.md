@@ -35,7 +35,7 @@ The project focuses on authentication flows, client-side state management, and u
 - Reset filters to default
 ---
 
-## Demo
+## Video Demonstations
 
 ### Existing account
 [Demo for existing account](https://www.youtube.com/watch?v=wY8veXTyq_8)
