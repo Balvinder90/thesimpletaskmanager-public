@@ -1,4 +1,4 @@
-# Task Manager App
+# Task Manager App (Public)
 
 A full-stack task management web application built with React, TypeScript, and Supabase.
 
