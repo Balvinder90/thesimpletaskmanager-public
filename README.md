@@ -11,6 +11,9 @@ This application allows users to manage their tasks through a clean and intuitiv
 
 The project focuses on authentication flows, client-side state management, and user-friendly task organization features.
 
+## Supabase Rate Limits
+Due to Supabases built in rate limits, some sign up and password reset confirmations may not be sent in time which means users sometimes won't be able to sign up or reset their passwords in time due to the OTP expiring. A workaround is in place in the form of anonymous logins so anyone can use the app without actually making an account.
+
 ---
 
 ## Features
