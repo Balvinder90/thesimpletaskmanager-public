@@ -43,6 +43,9 @@ The project focuses on authentication flows, client-side state management, and u
 ### Full demo for an anonymous account
 [Demo for anonymous account](https://www.youtube.com/watch?v=wnProlF4TIs)
 
+<a href="http://example.com/" target="_blank">Hello, world!</a>
+
+
 ---
 
 ## Tech Stack
