@@ -59,6 +59,7 @@ The project focuses on authentication flows, client-side state management, and u
 - Authentication and database interactions are handled directly from the frontend using Supabase’s client SDK.
 - Environment variables are used to securely manage Supabase credentials.
 - Anonymous users can explore the app before creating an account.
+- Anonymous users data is deleted once they have logged out.
 
 ---
 
@@ -81,4 +82,7 @@ If you’re interested in reviewing the implementation, feel free to contact me.
 ---
 
 ## Author
-Balvinder Singh
+**Balvinder Singh**
+- 🔗 [LinkedIn](https://uk.linkedin.com/in/balvindersingh90)
+- 🌐 [Portfolio](https://balvindersinghportfolio.netlify.app/)
+
