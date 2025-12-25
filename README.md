@@ -11,6 +11,8 @@ This application allows users to manage their tasks through a clean and intuitiv
 
 The project focuses on authentication flows, client-side state management, and user-friendly task organization features.
 
+---
+
 ## Supabase Rate Limits
 Due to Supabase’s built-in rate limits, some sign-up and password reset emails may be delayed. As a result, email confirmations can expire before users are able to complete the process, preventing successful sign-ups or password resets. To address this, the app supports anonymous logins, allowing anyone to use the app without creating an account.
 
