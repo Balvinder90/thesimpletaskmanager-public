@@ -84,6 +84,6 @@ If you’re interested in reviewing the implementation, feel free to contact me.
 ## Author
 **Balvinder Singh**
 
-🔗 [LinkedIn](https://uk.linkedin.com/in/balvindersingh90)
-🌐 [Portfolio](https://balvindersinghportfolio.netlify.app/)
+- 🔗 [LinkedIn](https://uk.linkedin.com/in/balvindersingh90)
+- 🌐 [Portfolio](https://balvindersinghportfolio.netlify.app/)
 
