@@ -2,7 +2,7 @@
 
 A full-stack task management web application built with React, TypeScript, and Supabase.
 
-![Existing account demo](assets/demoimg.jpg)
+![Existing account demo](assets/simpletaskdemo.jpg)
 
 ▶ **Live Demo:** https://thesimpletaskmanager.netlify.app
 
