@@ -43,6 +43,8 @@ Due to Supabase’s built-in rate limits, some sign-up and password reset emails
 ## Video Demonstations
 
 ### Existing account
+![Existing account demo](assets/demo.jpg)
+
 [Demo for an existing account](https://www.youtube.com/watch?v=wY8veXTyq_8)
 
 ### Anonymous account
